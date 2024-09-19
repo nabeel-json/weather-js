@@ -1,2 +1,2 @@
-# Weather app using openweather api
-https://openweathermap.org/
+# Weather app using OpenWeather API
+## https://openweathermap.org/
